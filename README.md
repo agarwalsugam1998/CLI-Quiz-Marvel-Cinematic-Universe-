@@ -54,7 +54,7 @@ I wanted to learn JavaScipt:
 
 To start the interactive program, simply click on the play button.
 
-`marvel-cinematic-universe` was built with a thought that user should intervene less with the inputs in mind. Idea is to provide seamless experience to end-user.
+`marvel-cinematic-universe` was built with a thought that user should intervene less with the inputs. Idea is to provide seamless experience to end-user.
 
 - Enter your name
 - Look at the character-attainment table for the desired score
